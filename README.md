@@ -1,3 +1,3 @@
-# HTML & CSS pages
+Technical Documentation Page
 
-These are some pages I did to practice HTML & CSS
+A JavaScript documentation page using HTML & CSS
